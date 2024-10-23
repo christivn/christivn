@@ -76,7 +76,3 @@ Whether it's web development, server administration, or automating processes wit
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
-
-### ⭐ Stats
-
-![Profile](https://github-profile-trophy.vercel.app/?username=christivn&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)
