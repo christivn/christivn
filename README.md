@@ -1,4 +1,22 @@
-# I'm Christian Ramos 👋
+# 𝗜❜𝗺 𝗖𝗵𝗿𝗶𝘀𝘁𝗶𝗮𝗻 𝗥𝗮𝗺𝗼𝘀 👋 <br> _Web Developer & Cybersecurity Enthusiast_
+
+Hi! I'm Christian, a tech enthusiast from Seville, Spain 🇪🇸. **Since 2015**, I've been deeply involved in the fascinating world of **cybersecurity** 🔐, which sparked my interest in **programming** and learning a wide variety of **languages and technologies** 💻.
+
+I love tinkering 🛠️ and experimenting with all kinds of projects, from **web development** 🌐 to **server administration** 🖥️. My curiosity and passion for continuous learning 📚 have allowed me to explore different fields within technology, always looking for new challenges that help me keep growing 🚀.
+
+<br>
+
+## 🛠️ Skills & Expertise
+
+I specialize in **Python**, **PHP**, and **Java**, using these languages to build robust applications and tackle a wide range of programming challenges. I’m also well-versed in **JavaScript**, along with **HTML5** and **CSS3**, enabling me to create dynamic, responsive web applications.
+
+On the backend, I have solid experience with databases like **MySQL** and **PostgreSQL**, along with modern frameworks such as **Flask** and **FastAPI** for building scalable APIs. Additionally, I frequently work with **Docker** and **Nginx** for containerization and web server management.
+
+In terms of tools, I’m proficient with **Git** for version control, and I often use **Postman** for API testing and development. I'm also comfortable managing infrastructure with **Cloudflare** and **Proxmox**, ensuring high availability and security.
+
+Whether it's web development, server administration, or automating processes with **Selenium**, my focus is on delivering efficient, secure solutions.
+
+#
 
 ### 👨🏻‍💻 Languages
 
