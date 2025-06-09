@@ -1,4 +1,4 @@
-# 𝗜❜𝗺 𝗖𝗵𝗿𝗶𝘀𝘁𝗶𝗮𝗻 𝗥𝗮𝗺𝗼𝘀 👋 <br> _Web Developer & AI and Cybersecurity Enthusiast_
+# 𝗜❜𝗺 𝗖𝗵𝗿𝗶𝘀𝘁𝗶𝗮𝗻 𝗥𝗮𝗺𝗼𝘀 👋 <br> _Web Developer, AI and Cybersecurity Enthusiast_
 
 ![christivn@riseup.net](https://img.shields.io/badge/christivn@riseup.net-000?style=for-the-badge&logoColor=white)
 ![Seville](https://img.shields.io/badge/🌍%20Seville-000?style=for-the-badge&logoColor=white)
